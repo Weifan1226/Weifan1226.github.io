@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Fanjunduo Wei (魏凡峻铎) / Personal Homepage"
+title                    : "Fanjunduo Wei (魏凡峻铎)"
 title_separator          : "-"
 name                     : &name "Fanjunduo Wei"
 description              : &description "A third-year undergraduate student at Northeastern University, China"
