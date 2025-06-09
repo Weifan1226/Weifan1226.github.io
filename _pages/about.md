@@ -7,34 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China).  
-I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) and [Dr. Zhenheng Tang](https://wizard1203.github.io/) on **trustworthy machine learning** and **LLM agent**.
-
+Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) and [Dr. Zhenheng Tang](https://wizard1203.github.io/) on **trustworthy machine learning** and **LLM agent**.
 
 📢 **I’m now looking for a Ph.D. position (2026 Fall)** 
 
 If you are interested in my work or collaboration, please feel free to contact me.
 
 
-
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
-
-- 🎉 <strong>[2025.06]</strong> balabala!<br>
-- 📝 <strong>[2025.04]</strong> aaa!<br>
-- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.<br>
-- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.<br>
-- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.<br>
-- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.<br>
-- 🎉 <strong>[2025.06]</strong> balabala!<br>
-- 📝 <strong>[2025.04]</strong> aaa!<br>
-- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
-- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
+  
+- 🏆 <strong>[2025.05]</strong> As the team leader, I led NEU_Alkaid to win the National First Prize in the Robocup2d <br>
+- 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
 
 </div>
 
 
 ## 🎓 Education 
-- *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
+- *2022.09 - 2026.07(expected)*, Northeastern University (China), B.E. in Artificial Intelligence.
 
 
 ## 💼 Research Experience
