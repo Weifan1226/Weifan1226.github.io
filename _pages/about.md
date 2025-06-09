@@ -8,30 +8,28 @@ redirect_from:
 ---
 
 Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China).  
-My main research interests are in **Machine Learning**, **Large Language Models**.
+I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) and [Dr. Zhenheng Tang](https://wizard1203.github.io/) on **trustworthy machine learning** and **LLM agent**.
 
-## 🔥 News
+
+📢 **I’m now looking for a Ph.D. position (2026 Fall)** 
+
+If you are interested in my work or collaboration, please feel free to contact me.
+
+
 
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
 
-- 🎉 <strong>[2025.06]</strong> balabala! \r
-- 📝 <strong>[2025.04]</strong> aaa! \r
+- 🎉 <strong>[2025.06]</strong> balabala!<br>
+- 📝 <strong>[2025.04]</strong> aaa!<br>
+- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.<br>
+- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.<br>
+- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.<br>
+- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.<br>
+- 🎉 <strong>[2025.06]</strong> balabala!<br>
+- 📝 <strong>[2025.04]</strong> aaa!<br>
 - 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
 - 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
-- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
-- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.
-- 🎉 <strong>[2025.06]</strong> balabala!
-- 📝 <strong>[2025.04]</strong> aaa!
-- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
-- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
-- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
-- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.
-- 🎉 <strong>[2025.06]</strong> balabala!
-- 📝 <strong>[2025.04]</strong> aaa!
-- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
-- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
-- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
-- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.
+
 </div>
 
 
@@ -41,9 +39,9 @@ My main research interests are in **Machine Learning**, **Large Language Models*
 
 ## 💼 Research Experience
 
-- *2024.08 - present*, Research Assistant @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
-- *2024.07 - 2024.08*, Research Intern @NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
-
+- *2024.08 - present*, Research Assistant @ HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
+- *2024.07 - 2024.08*, Research Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
+- *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
 ## 📄 Publications
 - Coming Soon!
