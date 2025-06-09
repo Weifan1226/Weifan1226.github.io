@@ -20,7 +20,18 @@ My main research interests are in **Machine Learning**, **Large Language Models*
 - 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
 - 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
 - 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.
-
+- 🎉 <strong>[2025.06]</strong> balabala!
+- 📝 <strong>[2025.04]</strong> aaa!
+- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
+- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
+- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
+- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.
+- 🎉 <strong>[2025.06]</strong> balabala!
+- 📝 <strong>[2025.04]</strong> aaa!
+- 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
+- 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
+- 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
+- 🧪 <strong>[2024.06]</strong> Released open-source multitask LoRA training code on GitHub.
 </div>
 
 
