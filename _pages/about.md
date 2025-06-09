@@ -14,8 +14,8 @@ My main research interests are in **Machine Learning**, **Large Language Models*
 
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
 
-- 🎉 <strong>[2025.06]</strong> balabala!
-- 📝 <strong>[2025.04]</strong> aaa!
+- 🎉 <strong>[2025.06]</strong> balabala! \r
+- 📝 <strong>[2025.04]</strong> aaa! \r
 - 📚 <strong>[2025.02]</strong> Submitted paper on LLM alignment to ACL Rolling Review.
 - 💼 <strong>[2024.11]</strong> Completed internship at NEUNLP.
 - 🏆 <strong>[2024.08]</strong> Won 2nd Prize in China AI Challenge.
@@ -36,7 +36,7 @@ My main research interests are in **Machine Learning**, **Large Language Models*
 
 
 ## 🎓 Education 
-- *2022.09 - 2026.07*, Northeastern University (China), Bachelor in Artificial Intelligence.
+- *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
 
 ## 💼 Research Experience
@@ -50,8 +50,8 @@ My main research interests are in **Machine Learning**, **Large Language Models*
 
 
 ## 🏆 Selected Awards
-- National Scholarship, 2024, Ministry of Education, PRC
-- First Class Outstanding Scholarship, 2023, NEU
+- 2024, National Scholarship, Ministry of Education, PRC
+- 2023, First Class Outstanding Scholarship, Northeastern University
 
 
 
