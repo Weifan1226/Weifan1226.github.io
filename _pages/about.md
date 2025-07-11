@@ -37,8 +37,8 @@ If you are interested in my work or collaboration, please feel free to contact m
 
 
 ## 🏆 Selected Awards
-- 2024, National Scholarship, Ministry of Education, PRC
-- 2023, First Class Outstanding Scholarship, Northeastern University
+- 2024, National Scholarship
+- 2023, First Class Scholarship, NEU
 
 
 
