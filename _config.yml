@@ -25,16 +25,16 @@ author:
   avatar           : "me.png"
   name             : "Fanjunduo Wei"
   pronouns         :  
-  bio              : "Undergraduate student at Northeastern University, China"
+  bio              : "Undergraduate student at Northeastern University"
   location         : "Shenyang, China"
-  employer         : "Northeastern University, China"
+  employer         : "Northeastern University"
   uri              : 
   email            : "weifanjunduo@gmail.com" 
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=vE9fU9gAAAAJ&hl"
   impactstory      : 
   orcid            : 
   semantic         : 
