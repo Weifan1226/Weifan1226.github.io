@@ -7,18 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) and [Dr. Zhenheng Tang](https://wizard1203.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in AI scientist at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
+Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in AI scientist at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
 📢 **I’m now looking for a Ph.D. position (2026 Fall)** 
-
 If you are interested in my work or collaboration, please feel free to contact me.
 
-
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
-  
-- 🏆 <strong>[2025.05]</strong> As the team leader, I led NEU_Alkaid to win the National First Prize in the Robocup2d <br>
+- 💼 <strong>[2025.07]</strong> Start my visiting study at WestlakeNLP. <br>
+- 🏆 <strong>[2025.05]</strong> As the team leader, I led NEU_Alkaid to win the National First Prize in the Robocup2d. <br>
 - 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
-
 </div>
 
 
