@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script>
-
 Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) and [Dr. Zhenheng Tang](https://wizard1203.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in AI scientist at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
 📢 **I’m now looking for a Ph.D. position (2026 Fall)** 
@@ -45,5 +42,7 @@ If you are interested in my work or collaboration, please feel free to contact m
 
 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script>
+
 ---
-*Last updated: 2025-06-09*
+*Last updated: 2025-08-18*
