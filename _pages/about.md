@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in AI scientist at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
+Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
 📢 **I’m now looking for a Ph.D. position (2026 Fall)** 
 If you are interested in my work or collaboration, please feel free to contact me.
@@ -24,9 +24,9 @@ If you are interested in my work or collaboration, please feel free to contact m
 
 
 ## 💼 Research Experience
-- *2025.07 - present*, Visiting Students @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
+- *2025.07 - present*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
 - *2024.08 - present*, Research Assistant @ HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
-- *2024.07 - 2024.08*, Visiting Students @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
+- *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
 ## 📄 Publications
