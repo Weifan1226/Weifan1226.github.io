@@ -29,8 +29,10 @@ If you are interested in my work or collaboration, please feel free to contact m
 - *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
-## 📄 Publications
-- Coming Soon!
+## 📄 First-author Publications
+The * represents equal contribution
+
+- **F. Wei***, Z. Tang*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. Under review of NeurIPS 2025 (scores:4442), Published in ICML Workshop DIG-BUG 2025.
 
 
 ## 🏆 Selected Awards
@@ -42,4 +44,4 @@ If you are interested in my work or collaboration, please feel free to contact m
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script>
 
 ---
-*Last updated: 2025-08-18*
+*Last updated: 2025-08-30*
