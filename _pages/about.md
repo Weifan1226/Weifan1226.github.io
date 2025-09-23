@@ -9,10 +9,10 @@ redirect_from:
 
 Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
-📢 **I’m now looking for a Ph.D. position (2026 Fall)** 
-If you are interested in my work or collaboration, please feel free to contact me.
+I am interested in the techs about LLMs and AI Agents. If you are interested in my work or looking for collaboration, feel free to reach me out. 
 
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
+- 🎓 <strong>[2025.09]</strong> So exciting to be accepted by ZJUNLP! I will pursue my master degree in Hangzhou. <br>
 - 💼 <strong>[2025.07]</strong> Start my visiting study at WestlakeNLP. <br>
 - 🏆 <strong>[2025.05]</strong> As the team leader, I led NEU_Alkaid to win the National First Prize in the Robocup2d. <br>
 - 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
@@ -24,7 +24,7 @@ If you are interested in my work or collaboration, please feel free to contact m
 
 
 ## 💼 Research Experience
-- *2025.07 - present*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
+- *2025.07 - 2025.10*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
 - *2024.08 - present*, Research Assistant @ HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
 - *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
@@ -44,4 +44,4 @@ The * represents equal contribution
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script>
 
 ---
-*Last updated: 2025-08-30*
+*Last updated: 2025-09-25*
