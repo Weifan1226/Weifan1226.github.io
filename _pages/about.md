@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China), also an incoming master student at ZJUNLP, which is advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
+Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China), also an incoming master student at ZJUNLP, advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding(https://scipilots.org/about-us/). I’m currently working closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. Also I am woring in **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
 I am interested in the techs about LLMs and AI Agents. If you are interested in my work or looking for collaboration, feel free to reach me out. 
 
@@ -20,7 +20,8 @@ I am interested in the techs about LLMs and AI Agents. If you are interested in 
 
 
 ## 🎓 Education 
-- *2022.09 - 2026.07(expected)*, Northeastern University (China), B.E. in Artificial Intelligence.
+- *2026.09 - 2029.07(expected)*, Northeastern University (China), M.S. in Computer Technology. 
+- *2022.09 - 2026.07 *, Northeastern University (China), B.E. in Artificial Intelligence.
 
 
 ## 💼 Research Experience
