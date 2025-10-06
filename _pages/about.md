@@ -20,8 +20,8 @@ I am interested in the techs about LLMs and AI Agents. If you are interested in 
 
 
 ## 🎓 Education 
-- *2026.09 - 2029.07(expected)*, Northeastern University (China), M.S. in Computer Technology. 
-- *2022.09 - 2026.07 *, Northeastern University (China), B.E. in Artificial Intelligence.
+- *2026.09 - 2029.07(expected)*, Zhejiang University, M.S. in Computer Technology. 
+- *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
 
 ## 💼 Research Experience
