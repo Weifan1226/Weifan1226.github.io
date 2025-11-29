@@ -9,13 +9,13 @@ redirect_from:
 
 Hi! I’m an undergraduate student majoring in Artificial Intelligence at Northeastern University (China), also an incoming master student at ZJU, advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). I am now a Research Intern focusing on Agent Memory at Rayneo advised by [Dr. Sijie Cheng](https://adacheng.github.io/).
 
-I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning** and **LLM agent**. and in **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
+I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
-I am interested in the techs about training algorithms of LLM and AI Agents. If you are interested in my work or looking for collaboration, feel free to reach me out. 
+If you are interested in my work or looking for collaboration, feel free to reach me out. 
 
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
 - 💼 <strong>[2025.11]</strong> Start my intern study at Rayneo. <br>
-- 🎓 <strong>[2025.09]</strong> So excited to join ZJU! I’ll pursue my master degree in Hangzhou. <br>
+- 🎓 <strong>[2025.09]</strong> So excited to join ZJUNLP! I’ll pursue my master degree in Hangzhou. <br>
 - 🧑‍🎓 <strong>[2025.07]</strong> Start my visiting study at WestlakeNLP. <br>
 - 🏆 <strong>[2025.05]</strong> As the team leader, I led NEU_Alkaid to win the National First Prize in the Robocup2d. <br>
 - 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
@@ -42,7 +42,7 @@ The * represents equal contribution
 
 
 ## 🏆 Selected Awards
-- 2024, National Scholarship
+- 2024, National Scholarship, MOE
 - 2023, First Class Scholarship, NEU
 
 
