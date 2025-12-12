@@ -26,7 +26,7 @@ If you are interested in my work or looking for collaboration, feel free to reac
 - *2026.09 - 2029.07(expected)*, Zhejiang University, M.S. in Computer Technology. 
 - *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
-## 💼 Intern
+## 💼 Internship
 - *2025.11 - present*, Agent Memory Research Intern @ RayNeo-Foundation Model Group. Mentor: [Dr. Sijie Cheng](https://adacheng.github.io/).
 
 ## 🧑‍🎓 Research Experience
@@ -35,15 +35,16 @@ If you are interested in my work or looking for collaboration, feel free to reac
 - *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
-## 📄 First-author Publications
+## 📄 Selected Publications
 The * represents equal contribution
 
 - **F. Wei***, Z. Tang*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. Under review of NeurIPS 2025 (scores:4442), Published in ICML Workshop DIG-BUG 2025.
 
 
 ## 🏆 Selected Awards
-- 2024, National Scholarship, MOE
-- 2023, First Class Scholarship, NEU
+- **1st Price**, RoboCup 2D Simulation League, CAA, 2025
+- **National Scholarship**, China, 2024
+- **First Class Scholarship**, NEU, 2023
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script>
