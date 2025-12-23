@@ -22,7 +22,7 @@ repository               : "Weifan1226/Weifan1226.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "images/me.png"
   name             : "Fanjunduo (Eddie) Wei"
   pronouns         :  
   bio              : "NLP | LLM Agent | RL"
