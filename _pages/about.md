@@ -1,58 +1,53 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). I am now a Research Intern focusing on Agent Memory and Agentic RL at Rayneo advised by [Dr. Sijie Cheng](https://adacheng.github.io/).
 
-<span class='anchor' id='about-me'></span>
+I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+If you are interested in my work or looking for collaboration, feel free to reach me out. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+<div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
+- 💼 <strong>[2025.11]</strong> Start my intern study at Rayneo. <br>
+- 🎓 <strong>[2025.09]</strong> So excited to join ZJUNLP! I’ll pursue my master degree in Hangzhou. <br>
+- 🧑‍🎓 <strong>[2025.07]</strong> Start my visiting study at WestlakeNLP. <br>
+- 🏆 <strong>[2025.05]</strong> As the team leader, I led NEU_Alkaid to win the National First Prize in the Robocup2d. <br>
+- 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🎓 Education 
+- *2026.09 - 2029.07(expected)*, Zhejiang University, M.S. in Computer Technology. 
+- *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 💼 Internship
+- *2025.11 - present*, Research Intern @ RayNeo-Foundation Model Group. Mentor: [Dr. Sijie Cheng](https://adacheng.github.io/).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## 🧑‍🎓 Research Experience
+- *2025.07 - 2025.10*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
+- *2024.08 - 2025.11*, Research Assistant @ HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
+- *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
+- *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 📄 Selected Publications
+The * represents equal contribution
+
+- **F. Wei***, Z. Tang*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. Under review, Published in ICML Workshop DIG-BUG 2025.
+
+
+## 🏆 Selected Awards
+- **National First Prize**, RoboCup 2D Simulation League, CAA, 2025
+- **National Scholarship**, China, 2024
+- **First Class Scholarship**, NEU, 2023
+
+
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script> -->
+
+---
+*Last updated: 2025-12-23*
