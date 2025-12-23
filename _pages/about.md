@@ -38,7 +38,7 @@ If you are interested in my work or looking for collaboration, feel free to reac
 ## 📄 Selected Publications
 The * represents equal contribution
 
-- **F. Wei***, Z. Tang*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. Under review, Published in ICML Workshop DIG-BUG 2025.
+- **F. Wei$^{*}$**, Z. Tang$^{*}$, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. Under review, Published in ICML Workshop DIG-BUG 2025.
 
 
 ## 🏆 Selected Awards
