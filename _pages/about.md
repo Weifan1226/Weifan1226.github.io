@@ -38,7 +38,7 @@ If you are interested in my work or looking for collaboration, feel free to reac
 ## 📄 Selected Publications
 The <sup>*</sup> represents equal contribution
 
--  **F. Wei <sup>*</sup> **, Z. Tang <sup>*</sup> , R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han.  
+-  **F. Wei<sup>*</sup>**, Z. Tang<sup>*</sup>, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han.  
   *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*  
   Under review, published in ICML Workshop DIG-BUG 2025.
 
