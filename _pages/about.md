@@ -36,9 +36,9 @@ If you are interested in my work or looking for collaboration, feel free to reac
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
 ## 📄 Selected Publications
-The <sup>*</sup> represents equal contribution
+* represents equal contribution
 
--  **F. Wei<sup>*</sup>**, Z. Tang<sup>*</sup>, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han.  
+-  **F. Wei\***, Z. Tang\*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han.  
   *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*  
   Under review, published in ICML Workshop DIG-BUG 2025.
 
