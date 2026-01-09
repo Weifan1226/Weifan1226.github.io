@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). I am now a Research Intern focusing on Agent Memory and Agentic RL at Rayneo advised by [Dr. Sijie Cheng](https://adacheng.github.io/).
+I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). I am now a Research Intern focusing on Agent Memory and Agentic RL at [Rayneo.AI](https://rayneo-ai.github.io/) advised by [Dr. Sijie Cheng](https://adacheng.github.io/).
 
 I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
@@ -27,7 +27,7 @@ If you are interested in my work or looking for collaboration, feel free to reac
 - *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
 ## 💼 Internship
-- *2025.11 - present*, Research Intern @ RayNeo-Foundation Model Group. Mentor: [Dr. Sijie Cheng](https://adacheng.github.io/).
+- *2025.11 - present*, Research Intern @ [RayNeo.AI](https://rayneo-ai.github.io/). Mentor: [Dr. Sijie Cheng](https://adacheng.github.io/).
 
 ## 🧑‍🎓 Research Experience
 - *2025.07 - 2025.10*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
