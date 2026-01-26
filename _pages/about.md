@@ -14,6 +14,7 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 If you are interested in my work or looking for collaboration, feel free to reach me out. 
 
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
+- 📄 <strong>[2026.01]</strong> So excited! JailbreakLoRA has been accepted to ICLR 2026! 🎉 <br>
 - 💼 <strong>[2025.11]</strong> Start my intern study at Rayneo. <br>
 - 🎓 <strong>[2025.09]</strong> So excited to join ZJUNLP! I’ll pursue my master degree in Hangzhou. <br>
 - 🧑‍🎓 <strong>[2025.07]</strong> Start my visiting study at WestlakeNLP. <br>
@@ -40,7 +41,7 @@ The * represents equal contribution
 
 -  **F. Wei\***, Z. Tang\*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han.  
   *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*  
-  Under review, published in ICML Workshop DIG-BUG 2025.
+  ICLR 2026.
 
 
 ## 🏆 Selected Awards
