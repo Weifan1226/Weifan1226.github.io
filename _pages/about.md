@@ -45,6 +45,7 @@ The * represents equal contribution
 
 
 ## 🏆 Selected Awards
+- **Outstanding Graduate**, NEU, 2026
 - **National First Prize**, RoboCup 2D Simulation League, CAA, 2025
 - **National Scholarship**, China, 2024
 - **First Class Scholarship**, NEU, 2023
@@ -53,4 +54,4 @@ The * represents equal contribution
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script> -->
 
 ---
-*Last updated: 2025-01-26*
+*Last updated: 2026-04-19*
