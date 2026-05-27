@@ -12,6 +12,7 @@ I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in 
 I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
 <div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
+- 💼 <strong>[2026.05]</strong> Start my intern study at Tencent. <br>
 - 📄 <strong>[2026.01]</strong> So excited! JailbreakLoRA has been accepted to ICLR 2026! 🎉 <br>
 - 💼 <strong>[2025.11]</strong> Start my intern study at Rayneo. <br>
 - 🎓 <strong>[2025.09]</strong> So excited to join ZJUNLP! I’ll pursue my master degree in Hangzhou. <br>
@@ -37,7 +38,7 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 ## 📄 Selected Publications
 The * represents equal contribution
 
-- *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*
+- *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*  
   **F. Wei\***, Z. Tang\*, R. Zeng\*, T. Liu, C. Zhang, X. Chu, B. Han.  
   ICLR 2026.
 
