@@ -45,11 +45,25 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 
 ## 📄 Selected Publications
 {: #publications }
-The * represents equal contribution
+<span style="font-size: 0.85em; color: #888;">* indicates equal contribution</span>
 
-- *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*  
-  **F. Wei\***, Z. Tang\*, R. Zeng\*, T. Liu, C. Zhang, X. Chu, B. Han.  
-  ICLR 2026.
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="images/jailbreaklora.png" alt="JailbreakLoRA teaser">
+  </div>
+  <div class="pub-body">
+    <span class="pub-venue">ICLR 2026</span>
+    <div class="pub-title">JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe</div>
+    <div class="pub-authors">
+      <span class="me">F. Wei*</span>, Z. Tang*, R. Zeng*, T. Liu, C. Zhang, X. Chu, B. Han
+    </div>
+    <div class="pub-links">
+      <a href="#" target="_blank">📄 Paper</a>
+      <a href="#" target="_blank">💻 Code</a>
+      <a href="#" target="_blank">🔗 Project</a>
+    </div>
+  </div>
+</div>
 
 
 ## 🏆 Selected Awards
