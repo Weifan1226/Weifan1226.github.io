@@ -58,8 +58,8 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
       <span class="me">F. Wei*</span>, Z. Tang*, R. Zeng*, T. Liu, C. Zhang, X. Chu, B. Han
     </div>
     <div class="pub-links">
-      <a href="#" target="_blank">📄 Paper</a>
-      <a href="#" target="_blank">💻 Code</a>
+      <a href="https://openreview.net/forum?id=4YgvVRoSnF" target="_blank">📄 Paper</a>
+      <a href="https://github.com/tmlr-group/JailbreakLoRA" target="_blank">💻 Code</a>
       <a href="#" target="_blank">🔗 Project</a>
     </div>
   </div>
