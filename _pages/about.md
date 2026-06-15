@@ -9,7 +9,7 @@ redirect_from:
 
 <div id="about-me"></div>
 
-I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). I am now a Research Intern focusing on RL for Coding Agent at [CodeBuddy Team](https://www.codebuddy.ai/home).
+I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). 
 
 I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
@@ -60,7 +60,6 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
     <div class="pub-links">
       <a href="https://openreview.net/forum?id=4YgvVRoSnF" target="_blank">📄 Paper</a>
       <a href="https://github.com/tmlr-group/JailbreakLoRA" target="_blank">💻 Code</a>
-      <a href="#" target="_blank">🔗 Project</a>
     </div>
   </div>
 </div>
