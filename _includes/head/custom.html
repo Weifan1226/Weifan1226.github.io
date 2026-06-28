@@ -30,8 +30,9 @@
 }
 .pub-item:last-child { border-bottom: none; }
 .pub-image {
-  flex: 0 0 230px;
-  max-width: 230px;
+  position: relative;
+  flex: 0 0 340px;
+  max-width: 340px;
 }
 .pub-image img {
   width: 100%;
@@ -41,14 +42,17 @@
 }
 .pub-body { flex: 1; }
 .pub-venue {
-  display: inline-block;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 2;
   font-size: 0.78em;
   font-weight: 700;
   color: #fff;
   background: #f66;
-  padding: 1px 8px;
+  padding: 2px 9px;
   border-radius: 4px;
-  margin-bottom: 0.4em;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.25);
 }
 .pub-title {
   font-weight: 700;

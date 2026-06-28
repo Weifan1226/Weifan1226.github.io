@@ -49,10 +49,10 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 
 <div class="pub-item">
   <div class="pub-image">
+    <span class="pub-venue">ICLR 2026</span>
     <img src="images/jailbreaklora.png" alt="JailbreakLoRA teaser">
   </div>
   <div class="pub-body">
-    <span class="pub-venue">ICLR 2026</span>
     <div class="pub-title">JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe</div>
     <div class="pub-authors">
       <span class="me">F. Wei*</span>, Z. Tang*, R. Zeng*, T. Liu, C. Zhang, X. Chu, B. Han
