@@ -4,7 +4,8 @@
 #  完整维护说明见 README.md
 # =============================================================
 
-# 【1/3】站点标题、一句话简介、GitHub 仓库名
+# 【1/3】站点地址、标题、一句话简介、GitHub 仓库名
+url                         : "https://weifan1226.github.io"   # 供 sitemap / RSS / SEO 使用
 title                       : "Fanjunduo Wei"
 description                 : "NLP | LLM Agent | RL"
 repository                  : "Weifan1226/Weifan1226.github.io"

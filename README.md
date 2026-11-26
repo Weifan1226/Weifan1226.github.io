@@ -108,7 +108,7 @@ Google Scholar 引用数抓取由 Actions 每天 08:00 UTC 运行，结果写到
 把我的实习经历改成……然后发布
 ```
 
-skill 内置 `set_avatar.sh`（图片标准化）和 `verify.py`（提交前自检），会先校验再提交；**只有明确说了「发布 / push / 上线」才会推送到远端**。
+skill 内置 `set_avatar.sh`（头像标准化）、`add_publication.py`（按字段生成论文卡片、复制配图、插到最新位置）、`templates/` 片段模板和 `verify.py`（提交前自检：图片路径、卡片字段、占位符、空链接、锚点、YAML）；会先校验再提交，**只有明确说了「发布 / push / 上线」才会推送到远端**。
 
 ---
 
