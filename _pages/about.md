@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). I am now a Research Intern focusing on RL for Coding Agent at [CodeBuddy Team](https://www.codebuddy.ai/home).
+<div id="about-me"></div>
+
+I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in Artificial Intelligence at [Northeastern University (China)](https://www.neu.edu.cn/), also an incoming master student at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Huajun Chen](https://person.zju.edu.cn/en/huajun), and [Prof. Keyan Ding](https://scipilots.org/about-us/). 
 
 I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
-<div id="news" style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
+## 📰 News
+{: #news }
+
+<div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
 - 💼 <strong>[2026.05]</strong> Start my intern study at Tencent. <br>
 - 📄 <strong>[2026.01]</strong> So excited! JailbreakLoRA has been accepted to ICLR 2026! 🎉 <br>
 - 💼 <strong>[2025.11]</strong> Start my intern study at Rayneo. <br>
@@ -21,34 +26,47 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 - 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
 </div>
 
-<a id="education"></a>
-## 🎓 Education 
+## 🎓 Education
+{: #education }
 - *2026.09 - 2029.07(expected)*, Zhejiang University, M.S. in Computer Technology. 
 - *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
-<a id="internship"></a>
 ## 💼 Internship
+{: #internship }
 - *2026.05 - present*, Research Intern @ [CodeBuddy Team](https://www.codebuddy.ai/home).
 - *2025.11 - 2026.04*, Research Intern @ [RayNeo.AI](https://rayneo-ai.github.io/). Mentor: [Sijie Cheng](https://adacheng.github.io/).
 
-<a id="research"></a>
 ## 🧑‍🎓 Research Experience
+{: #research }
 - *2025.07 - 2025.10*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
 - *2024.08 - 2025.11*, Research Assistant @ HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
 - *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
-<a id="publications"></a>
 ## 📄 Selected Publications
-The * represents equal contribution
+{: #publications }
+<span style="font-size: 0.85em; color: #888;">* indicates equal contribution</span>
 
-- *JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe.*  
-  **F. Wei\***, Z. Tang\*, R. Zeng\*, T. Liu, C. Zhang, X. Chu, B. Han.  
-  ICLR 2026.
+<div class="pub-item">
+  <div class="pub-image">
+    <span class="pub-venue">ICLR 2026</span>
+    <img src="images/jailbreaklora.png" alt="JailbreakLoRA teaser">
+  </div>
+  <div class="pub-body">
+    <div class="pub-title">JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms Might Be Unsafe</div>
+    <div class="pub-authors">
+      <span class="me">F. Wei*</span>, Z. Tang*, R. Zeng*, T. Liu, C. Zhang, X. Chu, B. Han
+    </div>
+    <div class="pub-links">
+      <a href="https://openreview.net/forum?id=4YgvVRoSnF" target="_blank">📄 Paper</a>
+      <a href="https://github.com/tmlr-group/JailbreakLoRA" target="_blank">💻 Code</a>
+    </div>
+  </div>
+</div>
 
 
-<a id="awards"></a>
 ## 🏆 Selected Awards
+{: #honors }
 - **Outstanding Graduate**, NEU
 - **National Scholarship**, NEU
 - **First Class Scholarship**, NEU
