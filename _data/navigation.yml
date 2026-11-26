@@ -1,22 +1,22 @@
-# main links links
+# 顶部导航：url 里的 #xxx 必须对应 _pages/about.md 里的 <a id="xxx"></a>
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Internship"
+    url: "/#internship"
+
+  - title: "Research"
+    url: "/#research"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Awards"
+    url: "/#awards"

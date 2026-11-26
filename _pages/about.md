@@ -11,7 +11,7 @@ I’m Fanjunduo Wei (魏凡峻铎), an senior undergraduate student majoring in 
 
 I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trustworthy machine learning**, also working on **AI scientist** at WestlakeNLP advised by [Prof. Yue Zhang](https://frcchang.github.io/)
 
-<div style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
+<div id="news" style="max-height: 150px; overflow-y: auto; padding-right: 10px; border-left: 4px solid #f66; background-color: #fdfdfd; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); font-size: 15px;">
 - 💼 <strong>[2026.05]</strong> Start my intern study at Tencent. <br>
 - 📄 <strong>[2026.01]</strong> So excited! JailbreakLoRA has been accepted to ICLR 2026! 🎉 <br>
 - 💼 <strong>[2025.11]</strong> Start my intern study at Rayneo. <br>
@@ -21,20 +21,24 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 - 🏆 <strong>[2024.12]</strong> Awarded the National Scholarship at Northeastern University.<br>
 </div>
 
+<a id="education"></a>
 ## 🎓 Education 
 - *2026.09 - 2029.07(expected)*, Zhejiang University, M.S. in Computer Technology. 
 - *2022.09 - 2026.07*, Northeastern University (China), B.E. in Artificial Intelligence.
 
+<a id="internship"></a>
 ## 💼 Internship
 - *2026.05 - present*, Research Intern @ [CodeBuddy Team](https://www.codebuddy.ai/home).
 - *2025.11 - 2026.04*, Research Intern @ [RayNeo.AI](https://rayneo-ai.github.io/). Mentor: [Sijie Cheng](https://adacheng.github.io/).
 
+<a id="research"></a>
 ## 🧑‍🎓 Research Experience
 - *2025.07 - 2025.10*, Visiting Student @ WLU-[WestlakeNLP](https://westlakenlp.com/), advised by [Prof. Yue Zhang](https://frcchang.github.io/).
 - *2024.08 - 2025.11*, Research Assistant @ HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by [Prof. Bo Han](https://bhanml.github.io/).
 - *2024.07 - 2024.08*, Summer Intern @ NEU-[NEUNLP](http://team.neu.edu.cn/NEUNLPLab/en/index.htm), advised by [Prof. Tong Xiao](https://www.nlplab.com/members/~xiaotong.html).
 - *2023.12 - 2024.07*, Research Trainee @ NEU, advised by [Prof. Rongfei Zeng](https://wingfeitsang.github.io/home/).
 
+<a id="publications"></a>
 ## 📄 Selected Publications
 The * represents equal contribution
 
@@ -43,6 +47,7 @@ The * represents equal contribution
   ICLR 2026.
 
 
+<a id="awards"></a>
 ## 🏆 Selected Awards
 - **Outstanding Graduate**, NEU
 - **National Scholarship**, NEU
@@ -52,4 +57,4 @@ The * represents equal contribution
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y2NagieNgNXg_ziPoAzSAsoGGQJtYJW8ZeAbPRArk8Q&cl=ffffff&w=a"></script> -->
 
 ---
-*Last updated: 2026-05-27*
+*Last updated: 2026-11-26*

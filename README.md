@@ -1,72 +1,112 @@
+# 个人主页维护手册
 
-<h1 align="center">
-AcadHomepage
-</h1>
+站点：<https://weifan1226.github.io> · Jekyll 静态站 · push 到 `main` 后由 GitHub Pages 自动部署。
 
-<div align="center">
+> 一句话：**内容只改 3 个文件**（`_config.yml`、`_pages/about.md`、`_data/navigation.yml`），其它都是主题引擎，不用碰。
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+---
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+## 1. 我要改 X → 去哪里改
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+| 想改的内容 | 文件 | 说明 |
+| --- | --- | --- |
+| 姓名、一句话简介、邮箱、GitHub / LinkedIn / Google Scholar 等链接 | `_config.yml` → `author` | 留空 = 不显示该图标 |
+| 头像图片本身 | `images/avatar.png` | 512×512 PNG，圆形显示；见下方「换头像」 |
+| 自我介绍、News、教育、实习、研究经历、论文、奖项 | `_pages/about.md` | 支持 Markdown + HTML 混写 |
+| 顶部导航菜单 | `_data/navigation.yml` | 锚点必须对应 `about.md` 里的 `id` |
+| 页面最后更新日期 | `_pages/about.md` 最后一行 | 每次更新顺手改 |
+| 浏览器标签页图标 (favicon) | `images/favicon*.png` + `_includes/head/custom.html` | 用 favicon 生成工具整包替换 |
+| 字体、配色、布局 | `_sass/`、`assets/` | 主题样式，一般不动 |
+| 引用数自动抓取 | `.github/workflows/`、`google_scholar_crawler/` | 自动运行，不用改 |
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+---
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+## 2. 常见操作
 
-## Quick Start
+### 换头像（推荐交给 Agent）
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+直接说：**「用这张图更新我的主页头像并发布」**，会调用 `homepage-update` skill 自动完成格式转换、裁剪、改配置和提交。
 
-## Debug Locally
+手动做也可以（macOS）：
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+```bash
+# 从任意格式图片生成 512×512 方形 PNG，并同步 _config.yml 的路径
+~/.workbuddy/skills/homepage-update/scripts/set_avatar.sh /path/to/photo.jpg
+```
 
-# Acknowledges
+原图是 JPG/HEIC 都行，脚本会转 PNG、居中裁成正方形（页面用 `border-radius: 50%` 显示圆形，必须是方图）、缩到 512px。改完记得确认 `_config.yml` 里 `author.avatar` 指向 `images/avatar.png`。
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+### 加一条 News
+
+编辑 `_pages/about.md` 中 `id="news"` 的 `<div>`，**在最上面插一行**（列表按时间倒序）：
+
+```html
+- 💼 <strong>[2026.11]</strong> 一句话写清楚发生了什么。<br>
+```
+
+### 加论文 / 奖项 / 经历
+
+同一个文件里找到 `## 📄 Selected Publications`、`## 🏆 Selected Awards` 等章节，按现有格式加列表项即可。
+
+### 改导航菜单
+
+`_data/navigation.yml` 每一项是 `title` + `url`。`url` 里的 `#xxx` 要和 `_pages/about.md` 中对应章节的 `<a id="xxx"></a>` 一致；新增章节时两处都要加。首页固定为 `/`。
+
+### 本地预览
+
+```bash
+gem install bundler -v 2.2.19 && bundle install   # 首次，需要 Ruby 环境
+bash run_server.sh                                # 打开 http://127.0.0.1:4000
+```
+
+`_config.yml` 改动不会热重载，改完要重启服务；`about.md` 改动会自动刷新。
+
+---
+
+## 3. 发布
+
+```bash
+git add -A && git commit -m "update homepage" && git push origin main
+```
+
+push 后 GitHub Pages 自动构建，约 1–2 分钟生效。构建失败去仓库的 **Actions** 页看日志。
+本机未安装对应版本的 bundler 时，也可以跳过本地预览直接 push，让 GitHub Pages 构建。
+
+---
+
+## 4. 目录说明（哪些不用动）
+
+```
+_config.yml              ← 改：站点信息 / 侧栏
+_pages/about.md          ← 改：正文
+_data/navigation.yml     ← 改：导航
+images/                  ← 改：头像、favicon
+_includes/ _layouts/ _sass/ assets/   ← 主题引擎，不动
+.github/workflows/ google_scholar_crawler/  ← 自动抓引用数，不动
+Gemfile Gemfile.lock run_server.sh          ← 本地构建依赖，不动
+.workbuddy/              ← WorkBuddy 记忆，已被 exclude，不会发布
+```
+
+Google Scholar 引用数抓取由 Actions 每天 08:00 UTC 运行，结果写到 `google-scholar-stats` 分支；需要在仓库 Secrets 里配置 `GOOGLE_SCHOLAR_ID`。页面里用 `<span class='show_paper_citations' data='论文ID'></span>` 显示单篇引用数。
+
+---
+
+## 5. 用 Agent 快速更新
+
+用户级 skill：`~/.workbuddy/skills/homepage-update/`
+
+```
+更新一下我的主页，加一条 news：……
+把主页头像换成这张图
+把我的实习经历改成……然后发布
+```
+
+skill 内置 `set_avatar.sh`（图片标准化）和 `verify.sh`（配置自检），会先校验再提交；**只有明确说了「发布 / push / 上线」才会推送到远端**。
+
+---
+
+## 6. 本次精简记录（可回滚）
+
+删除了：旧头像 `images/me.png`（17.9 MB）、命名错误的重复图 `images/images:android-chrome-512x512.png.png`、未使用的占位图 `images/500x300.png`、上游模板宣传文档 `docs/`；`_config.yml` 中约 355 行注释掉的模板示例已移除。全部通过 `git rm` 删除：本次改动提交前用 `git restore --staged --worktree <路径>` 即可找回；提交之后用 `git restore --source=<提交号> <路径>` 从历史恢复。
+
+主题来源：[AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)（MIT），基于 minimal-mistakes / academicpages。
