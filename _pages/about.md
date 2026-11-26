@@ -33,7 +33,7 @@ I used to work closely with [Prof. Bo Han](https://bhanml.github.io/) on **trust
 
 ## 💼 Internship
 {: #internship }
-- *2026.05 - present*, Research Intern @ [CodeBuddy Team](https://www.codebuddy.ai/home).
+- *2026.05 - 2026.09*, Research Intern @ WorkBuddy Team. Mentors: [Jiarui Yu](https://scholar.google.com/citations?user=uMg3XJQAAAAJ&hl=zh-CN) and [Hande Dong](https://donghande.github.io/).
 - *2025.11 - 2026.04*, Research Intern @ [RayNeo.AI](https://rayneo-ai.github.io/). Mentor: [Sijie Cheng](https://adacheng.github.io/).
 
 ## 🧑‍🎓 Research Experience
